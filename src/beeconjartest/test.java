@@ -46,7 +46,7 @@ public class test {
 		TestBee.addButton(beeButton3);
 		
 		HoneyComb honeyComb= new HoneyComb();
-		honeyComb.setRegion(BEECODE.ASIA);
+		honeyComb.setRegion(BEECODE.DEFAULT);
 		honeyComb.addBee(TestBee);		
 		honeyComb.hangOn();		
 		
