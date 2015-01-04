@@ -65,5 +65,6 @@ This library supports all of the features the JS client does, including events, 
 
 ## License
 
-MIT
+Dual licensed under the MIT or GPL Version 2 licenses.
+ 
  
