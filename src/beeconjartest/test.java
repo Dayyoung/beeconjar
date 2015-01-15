@@ -12,14 +12,12 @@ public class test {
 		
 		Bee TestBee = new Bee("BeeconJar",100);
 		
-		BeeButton beeButton1 = new BeeButton(1, "J") {
-			
+		BeeButton beeButton1 = new BeeButton(1, "J") {			
 			@Override
 			public void action() {
 				// TODO Auto-generated method stub
 				System.out.println("J");
-			}
-			
+			}			
 		};
 
 		BeeButton beeButton2 = new BeeButton(5, "A") {
@@ -28,12 +26,10 @@ public class test {
 			public void action() {
 				// TODO Auto-generated method stub
 				System.out.println("A");				
-			}
-			
+			}			
 		};				
 		
-		BeeButton beeButton3 = new BeeButton(9, "R") {
-			
+		BeeButton beeButton3 = new BeeButton(9, "R") {			
 			@Override
 			public void action() {
 				// TODO Auto-generated method stub
