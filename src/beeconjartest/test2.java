@@ -20,7 +20,7 @@ public class test2 {
 
 		honeyComb = new HoneyComb();
 		
-		honeyComb.setRegion(BEECODE.DEBUG);
+		honeyComb.setRegion(BEECODE.DEFAULT);
 
 		BeeCallback beeCallback = new BeeCallback() {
 			@Override
